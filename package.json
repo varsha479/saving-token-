@@ -3,6 +3,28 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
     "servor": "^4.0.2"
+  },
+  "name": "saving-token-",
+  "version": "1.0.0",
+  "description": "- Learn to generate a JWT (JSON Web Token) with an expiration time to enhance the security of your full-stack applications.",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varsha479/saving-token-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/varsha479/saving-token-/issues"
+  },
+  "homepage": "https://github.com/varsha479/saving-token-#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
   }
 }
